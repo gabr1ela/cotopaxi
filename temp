@@ -1,0 +1,9 @@
+curl -X POST "https://admin.hlx.page/preview/milo-academy/cotopaxi/main/blog/malamute" &&
+curl -X POST "https://admin.hlx.page/preview/milo-academy/cotopaxi/main/blog/bernese" &&
+curl -X POST "https://admin.hlx.page/live/milo-academy/cotopaxi/main/blog/malamute" &&
+curl -X POST "https://admin.hlx.page/live/milo-academy/cotopaxi/main/blog/bernese"
+
+
+
+curl -X POST "https://admin.hlx.page/index/gabr1ela/cotopaxi/main/blog/bernese" &&
+curl -X POST "https://admin.hlx.page/index/gabr1ela/cotopaxi/main/blog/malamute"
